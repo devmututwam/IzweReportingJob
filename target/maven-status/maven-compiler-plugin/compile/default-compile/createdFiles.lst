@@ -1,2 +1,2 @@
-org\example\controller\EmailDataController.class
+com\izwereportingjob\controller\EmailDataController.class
 com\izwereportingjob\IzweReportingJobApplication.class
