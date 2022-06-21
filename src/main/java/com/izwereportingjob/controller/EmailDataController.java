@@ -1,4 +1,4 @@
-package org.example.controller;
+package com.izwereportingjob.controller;
 
 
 import org.springframework.stereotype.Controller;
